@@ -1,5 +1,6 @@
 package com.luke.funmod;
 
+import com.luke.funmod.block.ModBlocks;
 import com.luke.funmod.item.ModCreativeModeTabs;
 import com.luke.funmod.item.ModItems;
 import com.mojang.logging.LogUtils;
@@ -46,8 +47,8 @@ public class funmod
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModCreativeModeTabs.register(modEventBus);
-
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
     
         modEventBus.addListener(this::commonSetup);
         

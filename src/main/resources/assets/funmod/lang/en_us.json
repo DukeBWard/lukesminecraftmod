@@ -1,5 +1,9 @@
 {
     "item.funmod.sapphire": "Sapphire",
     "item.funmod.raw_sapphire": "Raw Sapphire",
-    "creativetab.fun_mod": "Sapphire Tab"
+    
+    "creativetab.fun_mod": "Sapphire Tab",
+    
+    "block.funmod.sapphire_block": "Block of Sapphire",
+    "block.funmod.raw_sapphire_block": "Block of Raw Sapphire"
 }
