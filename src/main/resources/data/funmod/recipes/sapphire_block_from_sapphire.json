@@ -1,0 +1,18 @@
+{
+    "_comment": "This is cool.  Can add other ingredients pretty easily.",
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern" : [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#":{
+            "item": "funmod:sapphire"
+        }
+    },
+    "result": {
+        "item": "funmod:sapphire_block"
+    }
+}
