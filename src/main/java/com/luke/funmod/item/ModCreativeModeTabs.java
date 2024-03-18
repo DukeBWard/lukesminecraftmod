@@ -18,13 +18,15 @@ public class ModCreativeModeTabs {
 
     public static final RegistryObject<CreativeModeTab> FUN_TAB = CREATIVE_MODE_TABS.register("fun_tab",
     () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.SAPPHIRE.get()))
+            //this is the translatable component, i think looks up key in the lang file
         .title(Component.translatable("creativetab.fun_mod"))
         .displayItems((pParameters, pOutput) -> {
             pOutput.accept(ModItems.SAPPHIRE.get());
             pOutput.accept(ModItems.RAW_SAPPHIRE.get());
+            pOutput.accept(ModItems.METAL_DETECTOR.get());
+
             pOutput.accept(ModBlocks.SAPPHIRE_BLOCK.get());
             pOutput.accept(ModBlocks.RAW_SAPPHIRE_BLOCK.get());
-
             pOutput.accept(ModBlocks.SAPPHIRE_ORE.get());
             pOutput.accept(ModBlocks.DEEPSLATE_SAPPHIRE_ORE.get());
             pOutput.accept(ModBlocks.NETHER_SAPPHIRE_ORE.get());
