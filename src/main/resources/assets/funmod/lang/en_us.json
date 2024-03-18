@@ -12,5 +12,6 @@
     "block.funmod.sapphire_ore": "Sapphire Ore",
     "block.funmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
     "block.funmod.end_stone_sapphire_ore": "Endstone Sapphire Ore",
-    "block.funmod.nether_sapphire_ore": "Nether Sapphire Ore"
+    "block.funmod.nether_sapphire_ore": "Nether Sapphire Ore",
+    "block.funmod.sound_block": "Sound Block"
 }
