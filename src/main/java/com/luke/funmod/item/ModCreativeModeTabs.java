@@ -25,6 +25,9 @@ public class ModCreativeModeTabs {
             pOutput.accept(ModItems.RAW_SAPPHIRE.get());
             pOutput.accept(ModItems.METAL_DETECTOR.get());
 
+            pOutput.accept(ModItems.DONUT.get());
+            pOutput.accept(ModItems.PLUM.get());
+
             pOutput.accept(ModBlocks.SAPPHIRE_BLOCK.get());
             pOutput.accept(ModBlocks.RAW_SAPPHIRE_BLOCK.get());
             pOutput.accept(ModBlocks.SAPPHIRE_ORE.get());
