@@ -19,5 +19,24 @@
     "block.funmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
     "block.funmod.end_stone_sapphire_ore": "Endstone Sapphire Ore",
     "block.funmod.nether_sapphire_ore": "Nether Sapphire Ore",
-    "block.funmod.sound_block": "Sound Block"
+    "block.funmod.sound_block": "Sound Block",
+
+    "block.funmod.sapphire_stairs": "Sapphire Stairs",
+    "block.funmod.sapphire_slab": "Sapphire Slab",
+    "block.funmod.sapphire_button": "Sapphire Button",
+    "block.funmod.sapphire_pressure_plate": "Sapphire Pressure Plate",
+    "block.funmod.sapphire_fence": "Sapphire Fence",
+    "block.funmod.sapphire_fence_gate": "Sapphire Fence Gate",
+    "block.funmod.sapphire_wall": "Sapphire Wall",
+
+    "block.funmod.sapphire_door": "Sapphire Door",
+    "block.funmod.sapphire_trapdoor": "Sapphire Trapdoor",
+
+    "block.funmod.emerald_stairs": "Emerald Stairs",
+    "block.funmod.emerald_slab": "Emerald Slab",
+    "block.funmod.emerald_button": "Emerald Button",
+    "block.funmod.emerald_pressure_plate": "Emerald Pressure Plate",
+    "block.funmod.emerald_fence": "Emerald Fence",
+    "block.funmod.emerald_fence_gate": "Emerald Fence Gate",
+    "block.funmod.emerald_wall": "Emerald Wall"
 }
