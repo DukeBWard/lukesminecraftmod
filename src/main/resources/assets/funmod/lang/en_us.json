@@ -3,13 +3,13 @@
     "item.funmod.raw_sapphire": "Raw Sapphire",
 
     "item.funmod.metal_detector": "Metal Detector ",
+    "tooltip.funmod.metal_detector.tooltip": "Find really cool stuff underground I guess",
 
     "item.funmod.donut": "Donut",
     "item.funmod.plum": "Plum",
 
     "item.funmod.pine_cone":  "Pine Cone",
 
-    
     "creativetab.fun_mod": "Sapphire Tab",
     
     "block.funmod.sapphire_block": "Block of Sapphire",
