@@ -28,6 +28,8 @@ public class ModCreativeModeTabs {
             pOutput.accept(ModItems.DONUT.get());
             pOutput.accept(ModItems.PLUM.get());
 
+            pOutput.accept(ModItems.PINE_CONE.get());
+
             pOutput.accept(ModBlocks.SAPPHIRE_BLOCK.get());
             pOutput.accept(ModBlocks.RAW_SAPPHIRE_BLOCK.get());
             pOutput.accept(ModBlocks.SAPPHIRE_ORE.get());

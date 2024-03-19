@@ -2,6 +2,7 @@ package com.luke.funmod.item;
 
 import com.luke.funmod.funmod;
 
+import com.luke.funmod.item.custom.FuelItem;
 import com.luke.funmod.item.custom.MetalDetectorItem;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -23,6 +24,8 @@ public class ModItems {
             () -> new Item(new Item.Properties().food(ModFoods.DONUT)));
     public static final RegistryObject<Item> PLUM = ITEMS.register("plum",
             () -> new Item(new Item.Properties().food(ModFoods.PLUM)));
+    public static final RegistryObject<Item> PINE_CONE = ITEMS.register("pine_cone",
+            () -> new FuelItem(new Item.Properties(), 400));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
