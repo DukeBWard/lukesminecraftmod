@@ -93,11 +93,12 @@ public class ModBlocks {
     public static final RegistryObject<Block> EMERALD_WALL = registerBlock("emerald_wall",
             () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.EMERALD_BLOCK)));
 
+    //no occlusion is needed for doors with cutouts
     public static final RegistryObject<Block> SAPPHIRE_DOOR = registerBlock("sapphire_door",
-            () -> new DoorBlock(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST),
+            () -> new DoorBlock(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST).noOcclusion(),
                     BlockSetType.IRON));
     public static final RegistryObject<Block> SAPPHIRE_TRAPDOOR = registerBlock("sapphire_trapdoor",
-            () -> new TrapDoorBlock(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST),
+            () -> new TrapDoorBlock(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST).noOcclusion(),
                     BlockSetType.IRON));
 
 

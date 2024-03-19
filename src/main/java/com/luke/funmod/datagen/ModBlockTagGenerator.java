@@ -45,5 +45,21 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
 
         this.tag(Tags.Blocks.NEEDS_NETHERITE_TOOL)
                 .add(ModBlocks.END_STONE_SAPPHIRE_ORE.get());
+
+        // you need these tags for fences and walls for them to connect to eachother
+        this.tag(BlockTags.FENCES)
+                .add(ModBlocks.SAPPHIRE_FENCE.get());
+        this.tag(BlockTags.FENCES)
+                .add(ModBlocks.EMERALD_FENCE.get());
+
+        this.tag(BlockTags.FENCE_GATES)
+                .add(ModBlocks.EMERALD_FENCE_GATE.get());
+        this.tag(BlockTags.FENCE_GATES)
+                .add(ModBlocks.EMERALD_FENCE_GATE.get());
+
+        this.tag(BlockTags.WALLS)
+                .add(ModBlocks.SAPPHIRE_WALL.get());
+        this.tag(BlockTags.WALLS)
+                .add(ModBlocks.EMERALD_WALL.get());
     }
 }
