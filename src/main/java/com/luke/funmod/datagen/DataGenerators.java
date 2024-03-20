@@ -16,6 +16,8 @@ public class DataGenerators {
     @SubscribeEvent
     public static void gatherData(GatherDataEvent event)
     {
+
+        // MAKE SURE STUFF HERE IS IN PROPER ORDER
         DataGenerator generator = event.getGenerator();
         PackOutput packOutput  = generator.getPackOutput();
         ExistingFileHelper existingFileHelper = event.getExistingFileHelper();

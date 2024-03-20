@@ -38,5 +38,7 @@
     "block.funmod.emerald_pressure_plate": "Emerald Pressure Plate",
     "block.funmod.emerald_fence": "Emerald Fence",
     "block.funmod.emerald_fence_gate": "Emerald Fence Gate",
-    "block.funmod.emerald_wall": "Emerald Wall"
+    "block.funmod.emerald_wall": "Emerald Wall",
+
+    "item.funmod.sapphire_staff": "Sapphire Staff"
 }
