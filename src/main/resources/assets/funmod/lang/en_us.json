@@ -10,7 +10,7 @@
 
     "item.funmod.pine_cone":  "Pine Cone",
 
-    "creativetab.fun_mod": "Sapphire Tab",
+    "creativetab.fun_mod": "Luke's Additions",
     
     "block.funmod.sapphire_block": "Block of Sapphire",
     "block.funmod.raw_sapphire_block": "Block of Raw Sapphire",
@@ -40,5 +40,12 @@
     "block.funmod.emerald_fence_gate": "Emerald Fence Gate",
     "block.funmod.emerald_wall": "Emerald Wall",
 
-    "item.funmod.sapphire_staff": "Sapphire Staff"
+    "item.funmod.sapphire_staff": "Sapphire Staff",
+    "item.funmod.sapphire_sword": "Sapphire Sword",
+    "item.funmod.sapphire_pickaxe": "Sapphire Pickaxe",
+    "item.funmod.sapphire_axe": "Sapphire Axe",
+    "item.funmod.sapphire_shovel": "Sapphire Shovel",
+    "item.funmod.sapphire_hoe": "Sapphire Hoe",
+
+    "item.funmod.emerald_sword": "Emerald Sword"
 }
