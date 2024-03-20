@@ -1,7 +1,23 @@
-// 1.20.2	2024-03-19T12:48:56.1046527	Item Models: funmod
+// 1.20.2	2024-03-20T10:56:35.338811	Item Models: funmod
 98f69387b3d31f0e6bc2db8ff624922b1455b7b2 assets/funmod/models/item/donut.json
+86bab3daa207c644bb9b742bb569705f5c1647ae assets/funmod/models/item/emerald_button.json
+bbf90689d9df342cfbc272cec12edb341804fe40 assets/funmod/models/item/emerald_fence.json
+389980de65bc09a6b262fd3b8f33299ac455b19d assets/funmod/models/item/emerald_fence_gate.json
+1ed3c01256203b323c2fecead9ca04d457e5b473 assets/funmod/models/item/emerald_pressure_plate.json
+0c7a9e397524a8798cb20f20d305d1e3418eae43 assets/funmod/models/item/emerald_slab.json
+3e362c74a903a52c6d90711786576404e2c8aee3 assets/funmod/models/item/emerald_stairs.json
+43dabc48eb8d87cd993ae84bcf5081ad83d14646 assets/funmod/models/item/emerald_wall.json
 252ae69d4f2b0c6dd5569ecb87ce168b10752969 assets/funmod/models/item/metal_detector.json
 fd875e2869c3990e7375dc04385dd79b3cc40249 assets/funmod/models/item/pine_cone.json
 3ee49d4cf663f9d7cc2386ad476ed53bba9767e7 assets/funmod/models/item/plum.json
 552d61b445dc1838f59fe6ecf9530eb7f2369580 assets/funmod/models/item/raw_sapphire.json
 53f365a808039e44f77ea76136e0a610dcd14e98 assets/funmod/models/item/sapphire.json
+177a05c992e9495855c990fbc5f60675e6a3af93 assets/funmod/models/item/sapphire_button.json
+0a9b8ad89f65b1587c7e4920d4b954ae8bc90c84 assets/funmod/models/item/sapphire_door.json
+3651f2e16f363829321bd3f449ee0944d28afe20 assets/funmod/models/item/sapphire_fence.json
+3b088909c8709a5458e461d96d10f3e7a6361c2b assets/funmod/models/item/sapphire_fence_gate.json
+f9cc61261cca8b8db8a860b741ebe31c05144ed2 assets/funmod/models/item/sapphire_pressure_plate.json
+ddb9e84fe16a19995e3dc11f00e3ea7d042853d3 assets/funmod/models/item/sapphire_slab.json
+7e49a098070a8f0222c650cdf392d739c9e2efba assets/funmod/models/item/sapphire_stairs.json
+a6b12404cbbf81ad2281352ad3c255b4ab85f110 assets/funmod/models/item/sapphire_trapdoor.json
+b78a35d9d812f832636a9327c9158b5297bbe447 assets/funmod/models/item/sapphire_wall.json

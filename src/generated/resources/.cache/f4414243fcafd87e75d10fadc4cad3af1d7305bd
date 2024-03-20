@@ -1,7 +1,10 @@
-// 1.20.2	2024-03-19T12:48:56.1056514	Tags for minecraft:block mod id funmod
+// 1.20.2	2024-03-20T10:56:35.3398115	Tags for minecraft:block mod id funmod
 2ec10a9ab8f13cf24305558d8e41b547ef209827 data/forge/tags/blocks/needs_netherite_tool.json
 5a5ccf1004960cc27bfad27b4c57210dc2d8c054 data/funmod/tags/blocks/metal_detector_valuables.json
+9d844d5092b23b56bee9e38f066eaf0c91fd0344 data/minecraft/tags/blocks/fences.json
+4a3cdbc6947b9d5be030f05abaddf5e43e5393ae data/minecraft/tags/blocks/fence_gates.json
 8bf6a8c7c5a2e5726bb99b68d55e893661346d9f data/minecraft/tags/blocks/mineable/pickaxe.json
 93384917ac5767219a188bb7c895f39e418f8118 data/minecraft/tags/blocks/needs_diamond_tool.json
 6c10ab9e50cb38352858c4d7b89fbe370110c01c data/minecraft/tags/blocks/needs_iron_tool.json
 662862a075a486ebd56f2a8840a464cfe40ee4f8 data/minecraft/tags/blocks/needs_stone_tool.json
+adb82dfdcb2608edec94653a9d55c025ce8f4e09 data/minecraft/tags/blocks/walls.json
