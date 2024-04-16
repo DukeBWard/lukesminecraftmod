@@ -47,5 +47,15 @@
     "item.funmod.sapphire_shovel": "Sapphire Shovel",
     "item.funmod.sapphire_hoe": "Sapphire Hoe",
 
-    "item.funmod.emerald_sword": "Emerald Sword"
+    "item.funmod.emerald_sword": "Emerald Sword",
+
+    "item.funmod.sapphire_helmet": "Sapphire Helmet",
+    "item.funmod.sapphire_chestplate": "Sapphire Chestplate",
+    "item.funmod.sapphire_leggings": "Sapphire Leggings",
+    "item.funmod.sapphire_boots": "Sapphire Boots",
+
+    "item.funmod.emerald_helmet": "Emerald Helmet",
+    "item.funmod.emerald_chestplate": "Emerald Chestplate",
+    "item.funmod.emerald_leggings": "Emerald Leggings",
+    "item.funmod.emerald_boots": "Emerald Boots"
 }
